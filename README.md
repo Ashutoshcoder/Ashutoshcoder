@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Ashutosh Kumar. a Software Engineering Enthusiast in India. Open source Contributor. I love to develop Softwares and Applications. I enjoy creating things which are impacting a lot of people.(https://github.com/Ashutoshcoder). Get to know more about me[_Portfolio_](https://ashutoshkumar.tech/).
+I’m Ashutosh Kumar. a Software Engineering Enthusiast in India. Open source Contributor. I love to develop Softwares and Applications. I enjoy creating things which are impacting a lot of people. [Github Profile](https://github.com/Ashutoshcoder). Get to know more about me [_Portfolio_](https://ashutoshkumar.tech/).
 
 <!--
 **Ashutoshcoder/Ashutoshcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
