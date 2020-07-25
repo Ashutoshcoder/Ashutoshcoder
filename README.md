@@ -1,18 +1,22 @@
-### Hi there 👋
+### Hi there 👋, my name is Ashutosh Kumar
+#### I develop Softwares and Applications.
+![I develop Softwares and Applications.](https://ashutoshkumar.tech/)
 
-I’m Ashutosh Kumar. a Software Engineering Enthusiast in India. Open source Contributor. I love to develop Softwares and Applications. I enjoy creating things which are impacting a lot of people. [Github Profile](https://github.com/Ashutoshcoder). Get to know more about me [_Portfolio_](https://ashutoshkumar.tech/).
+A Software Engineering Enthusiast in India. Open source Contributor. I love to develop Softwares and Applications. I enjoy creating things which are impacting a lot of people.
 
-<!--
-**Ashutoshcoder/Ashutoshcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Java / Python / C / Android / Apache Spark / PHP
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a research about boot time reduction 
+- 🌱 I’m currently learning Algorithms and Data Structures 
+- 👯 I’m looking to collaborate on open source projects 
+- 🤔 I’m looking for help with internships 
+- 📫 How to reach me: ashutoshkumardbms@gmail.com 
+- 😄 Pronouns: Technophile,  
+- ⚡ Fun fact: I am a bibliophile and a Harry Potter fan ! Wingardium leviosa 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Ashutoshcoder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/ashutoshcoder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ashutoshkumarlink//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/ashutoshkumarjs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/9433311/ashutosh-kumar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ashutoshkumar.tech/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@ashutoshkumardbms)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Ashutoshcoder&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/Ashutoshcoder)  
