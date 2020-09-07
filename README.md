@@ -4,6 +4,9 @@
 
 A Software Engineering Enthusiast in India. Open source Contributor. I love to develop Softwares and Applications. I enjoy creating things which are impacting a lot of people.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ashutoshcoder)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 Skills: Java / Python / C / Android / Apache Spark / PHP
 
 - 🔭 I’m currently working on a research about boot time reduction 
