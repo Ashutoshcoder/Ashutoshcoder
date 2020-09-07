@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ashutosh Kumar
-#### I develop Softwares and Applications.
-![I develop Softwares and Applications.](https://ashutoshkumar.tech/)
+####  I enjoy creating things which are impacting a lot of people.
+[I develop Softwares and Applications.](https://ashutoshkumar.tech/)
 
 A Software Engineering Enthusiast in India. Open source Contributor. I love to develop Softwares and Applications. I enjoy creating things which are impacting a lot of people.
 
