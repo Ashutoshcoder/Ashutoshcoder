@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ashutosh Kumar
 ####  I enjoy creating things which are impacting a lot of people.
-[I develop Softwares and Applications.](https://ashutoshkumar.tech/)
+[I develop Softwares and Applications.](https://www.ashutoshkumar.codes/)
 
 A Software Engineering Enthusiast in India. Open source Contributor. I love to develop Softwares and Applications. I enjoy creating things which are impacting a lot of people.
 
@@ -9,12 +9,12 @@ A Software Engineering Enthusiast in India. Open source Contributor. I love to d
 
 Skills: Java / Python / C / Android / Apache Spark / PHP
 
-- 🔭 I’m currently working on a research about boot time reduction 
+- 🔭 I’m currently exploring different technologies
 - 🌱 I’m currently learning Algorithms and Data Structures 
 - 👯 I’m looking to collaborate on open source projects 
-- 🤔 I’m looking for help with internships 
+- 🤔 I’m looking for exiciting opportunities 
 - 📫 How to reach me: ashutoshkumardbms@gmail.com 
-- 😄 Pronouns: Technophile,  
+- 😄 Pronouns: Technophile,Bibliophile
 - ⚡ Fun fact: I am a bibliophile and a Harry Potter fan ! Wingardium leviosa 
 
 
