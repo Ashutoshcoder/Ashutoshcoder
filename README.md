@@ -1,3 +1,5 @@
+[![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashutoshcoder)](https://github.com/Ashutoshcoder/github-readme-stats)
+
 ### Hi there 👋, my name is Ashutosh Kumar
 ####  I enjoy creating things which are impacting a lot of people.
 [I develop Softwares and Applications.](https://www.ashutoshkumar.codes/)
@@ -6,6 +8,7 @@ A Software Engineering Enthusiast in India. Open source Contributor. I love to d
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ashutoshcoder)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashutoshcoder)](https://git.io/streak-stats)
 
 Skills: Java / Python / C / Android / Apache Spark / PHP
 
